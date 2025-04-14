@@ -3,9 +3,9 @@
 #include <stack>
 #include <sstream>
 using namespace std;
-/*
+
 int main() {
-    //Ãâ·Â½Ã°£ ºü¸£°Ô ÇØÁÖ´Â..
+    //ÃƒÃ¢Â·Ã‚Â½ÃƒÂ°Â£ ÂºÃ¼Â¸Â£Â°Ã” Ã‡Ã˜ÃÃ–Â´Ã‚..
     ios::sync_with_stdio(0);
     cin.tie(0);
 
@@ -47,4 +47,3 @@ int main() {
         else                             cout << "no" << endl;
     }
 }
-*/
